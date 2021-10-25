@@ -7,6 +7,7 @@
 * MarkDown Examples; Italicing, Bolding, Listing
 * Embedding Code Into MarkDown Notes
 * Embedding hyperlinks into MarkDown Notes
+* Embedding images into MarkDown Notes
 * How to `push` notes to `GitHub`
 
 
@@ -66,6 +67,13 @@ public class Main {
 * To embed a link in MarkDown, wrap the phrase you would like become a link in square brackets [].
     * Follow the square brackets with a wrapping of the link in parenthesis.
 * [Here](https://school.zipcode.rocks/users/leon) is an example of a link to your student portal!
+
+
+### Embedding Images Into MarkDown Notes
+* To embed an image in MarkDown, prefix a hyperlink with a bang !
+    * `![](some-link-to-image.jpg)`
+
+![](https://crayongirllinz.files.wordpress.com/2015/01/rubber-ducky.jpg)
 
 ### How to `push` notes to `GitHub`
 1. To create a new repository in github, navigate to [github.com/new](https://github.com/new)
